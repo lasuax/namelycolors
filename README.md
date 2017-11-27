@@ -31,7 +31,7 @@ Gönderilen metne göre eşsiz renk kodları üreten küçük bir kütüphanedir
 
 ## Yükleme
 
-   `npm install @doa/namelycolors`
+   `npm install namelycolors`
    
 ## Kullanım
   
