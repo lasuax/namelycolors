@@ -7,11 +7,11 @@ A small library that creates unique color hex codes depending on given text.
 
 ## Installation
 
-  `npm install @doa/namelycolors`
+  `npm install namelycolors`
 
 ## Usage
 
-	import { namelyColor } from "@doa/namelycolors";
+	import { namelyColor } from "namelycolors";
     
 	let textColor = namelyColor("Doğa");
   
@@ -35,9 +35,9 @@ Gönderilen metne göre eşsiz renk kodları üreten küçük bir kütüphanedir
    
 ## Kullanım
   
-   import { namelyColor } from "@doa/namelycolors";
+    import { namelyColor } from "namelycolors";
     
-   let textColor = namelyColor("Doğa");
+    let textColor = namelyColor("Doğa");
    
   Çıktısı "#20AD0D" olmalı.
 
